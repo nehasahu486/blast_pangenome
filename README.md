@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains the scripts and files used in M. oryzae pangenome analysis
+This repository contains the scripts and files used in _M. oryzae_ pangenome analysis
 
 
 ## Table of Contents
