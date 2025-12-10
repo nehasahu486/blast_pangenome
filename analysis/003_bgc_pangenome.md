@@ -109,7 +109,7 @@ tree_plot<-ggtree(tree) %<+%
 tree_plot
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/load_data -1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/load_data -1.png" style="display: block; margin: auto;" />
 
 # Process antiSMASH Data
 
@@ -408,7 +408,7 @@ copy_num_plot<-ggarrange(tree_plot + heatmap_plot)
 copy_num_plot
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/heatmap-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/heatmap-1.png" style="display: block; margin: auto;" />
 
 ## Phylogenetic PCA
 
@@ -518,7 +518,7 @@ biplot<-ggplot() +
 biplot
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/biplot-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/biplot-1.png" style="display: block; margin: auto;" />
 
 ## Boxplot showing Most similar known clusters
 
@@ -553,7 +553,7 @@ boxplot_known_BGCs<-ggplot(data=known_similarity, aes(x=Known_BGC,y=Freq, fill=c
 boxplot_known_BGCs
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/boxplot_bgcs -1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/boxplot_bgcs -1.png" style="display: block; margin: auto;" />
 
 From the above plot, ACE1 looks interesting, as it has more copies in
 III (blue) and (II) red lineage as compared to the other two
@@ -647,7 +647,7 @@ ace1_circular<-ggplot(ace1_data, aes(x=id, y=BGC_specific_count, fill=clade)) +
 ace1_circular
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/ace1_circular-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/ace1_circular-1.png" style="display: block; margin: auto;" />
 
 ## Genes in the ACE1 Cluster
 
@@ -754,7 +754,7 @@ ace1_cluster<-ggplot(ace1_genes, aes(xmin=start, xmax=end, y=molecule,
 ace1_cluster
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/ace1_cluster-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/ace1_cluster-1.png" style="display: block; margin: auto;" />
 
 ## ACE1 Gene Expression Analysis
 
@@ -886,7 +886,7 @@ ace1_exp_heatmap<-ggplot(processed_expression,
 ace1_exp_heatmap
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/ace1_expression-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/ace1_expression-1.png" style="display: block; margin: auto;" />
 
 # Combined Main Figure
 
@@ -899,7 +899,7 @@ combined_fig<-ggarrange(copy_num_plot,biplot/ace1_circular/ace1_exp_heatmap,
 combined_fig
 ```
 
-<img src="/Users/nep23rer/Documents/work/blast_pangenome/data/results/003_bgc_pangenome/00_figures/main_figure-1.png" style="display: block; margin: auto;" />
+<img src="../data/results/003_bgc_pangenome/00_figures/main_figure-1.png" style="display: block; margin: auto;" />
 
 ### **Figure: Biosynthetic Gene Clusters Across *Magnaporthe oryzae* Pangenome.**
 
