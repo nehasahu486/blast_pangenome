@@ -1,0 +1,36 @@
+# Exclude everything by default
+*
+
+# But include these specific files and folders
+!README.md
+!.gitignore
+
+# Include analysis standalone .md files only
+!analysis/
+analysis/*
+!analysis/*.md
+
+# Include all files in data/results/
+!data/
+data/*
+!data/results/
+!data/results/**
+
+# Include all files in scripts/
+!scripts/
+!scripts/**
+
+# Exclude R project files and other common files
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Exclude reports folder entirely
+reports/
+
+# Exclude other documents
+methods_section.docx
+
+

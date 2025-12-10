@@ -1,0 +1,62 @@
+Isolate	n_contigs	n_regions	contig_names
+0423_1	12	56	0423_1_cont_00, 0423_1_cont_01, 0423_1_cont_02, 0423_1_cont_03.0, 0423_1_cont_03.1, 0423_1_cont_04, 0423_1_cont_05, 0423_1_cont_06, 0423_1_cont_07, 0423_1_cont_08, 0423_1_cont_09, 0423_1_cont_10
+2012_1	19	54	2012_1_cont_00, 2012_1_cont_01, 2012_1_cont_02, 2012_1_cont_03, 2012_1_cont_04, 2012_1_cont_05, 2012_1_cont_06, 2012_1_cont_07, 2012_1_cont_09, 2012_1_cont_10, 2012_1_cont_11, 2012_1_cont_12, 2012_1_cont_13, 2012_1_cont_14, 2012_1_cont_15, 2012_1_cont_16, 2012_1_cont_17, 2012_1_cont_18, 2012_1_cont_19
+2403_1	10	56	2403_1_cont_00, 2403_1_cont_01, 2403_1_cont_02, 2403_1_cont_03, 2403_1_cont_04, 2403_1_cont_05, 2403_1_cont_06, 2403_1_cont_08, 2403_1_cont_09, 2403_1_cont_13
+24_22_1_1	11	56	24_22_1_1_cont_00, 24_22_1_1_cont_01, 24_22_1_1_cont_02, 24_22_1_1_cont_03, 24_22_1_1_cont_04, 24_22_1_1_cont_05, 24_22_1_1_cont_06, 24_22_1_1_cont_07, 24_22_1_1_cont_08, 24_22_1_1_cont_09, 24_22_1_1_cont_10
+70_15	8	50	1, 2, 3, 4, 5, 6, 7, supercont8.8
+75A49	10	51	75A49_chr1_con2, 75A49_chr1_con6, 75A49_chr2_con4, 75A49_chr2_con5, 75A49_chr4_con1, 75A49_chr5_con1, 75A49_chr5_con2, 75A49_chr5_con3, 75A49_chr6_con2, 75A49_chr7_con1
+83R_131B	9	53	83R_131B_cont00, 83R_131B_cont01, 83R_131B_cont02, 83R_131B_cont03, 83R_131B_cont04, 83R_131B_cont05, 83R_131B_cont06, 83R_131B_cont07, 83R_131B_cont08
+85_141	8	55	85_141_cont_00, 85_141_cont_01, 85_141_cont_02, 85_141_cont_03, 85_141_cont_04, 85_141_cont_05, 85_141_cont_06, 85_141_cont_07
+87_175	11	53	87_175_cont_00, 87_175_cont_01, 87_175_cont_02, 87_175_cont_03, 87_175_cont_04, 87_175_cont_05, 87_175_cont_06, 87_175_cont_07, 87_175_cont_08, 87_175_cont_09, 87_175_cont_10
+AG002	15	56	AG002_chr1_con4, AG002_chr1_con5, AG002_chr1_con7, AG002_chr1_con9, AG002_chr2_con2, AG002_chr2_con4, AG002_chr2_con5, AG002_chr2_con6, AG002_chr3_con1, AG002_chr3_con3, AG002_chr4_con1, AG002_chr4_con2, AG002_chr5_con1, AG002_chr6_con2, AG002_chr7_con1
+AG006_HiC	9	53	AG006_chr1_cont3, AG006_chr2_cont1, AG006_chr3_cont2, AG006_chr4, AG006_chr5, AG006_chr6_cont1, AG006_chr6_cont2, AG006_chr7_cont2, AG006_cont03_mChr
+AG032	10	52	AG032_Contig02, AG032_Contig03, AG032_Contig04, AG032_Contig06, AG032_Contig07, AG032_Contig09, AG032_Contig10, AG032_Contig13, AG032_Contig14, AG032_Contig24
+AG038	9	55	AG038_chr1_con1, AG038_chr2_con1, AG038_chr2_con2, AG038_chr3_con1, AG038_chr4_con1, AG038_chr5_con2, AG038_chr5_con4, AG038_chr6_con1, AG038_chr7_con1
+AG039_HiC	14	51	AG039_chr1_cont5, AG039_chr1_cont7, AG039_chr2_cont2, AG039_chr2_cont3, AG039_chr2_cont7, AG039_chr2_cont10, AG039_chr3_cont1, AG039_chr3_cont2, AG039_chr4, AG039_chr5_cont1, AG039_chr6_cont1, AG039_chr6_cont2, AG039_chr7_cont1, AG039_chr7_cont2
+AG059	16	55	AG059_chr1_con2, AG059_chr2_con2, AG059_chr2_con3, AG059_chr2_con4, AG059_chr3_con2, AG059_chr4_con1, AG059_chr4_con2, AG059_chr4_con3, AG059_chr5_con3, AG059_chr5_con4, AG059_chr6_con4, AG059_chr6_con5, AG059_chr6_con6, AG059_chr7_con1, AG059_contig25, AG059_contig35
+AG098	11	53	AG098_chr1_con1, AG098_chr2_con1, AG098_chr2_con2, AG098_chr2_con3, AG098_chr3_con1, AG098_chr3_con3, AG098_chr4_con2, AG098_chr5_con2, AG098_chr5_con3, AG098_chr6_con8, AG098_chr7_con1
+AV_1_1	8	51	MQNW02000010.1, MQNW02000011.1, MQNW02000001.1, MQNW02000002.1, MQNW02000006.1, MQNW02000007.1, MQNW02000008.1, MQNW02000009.1
+Ao92_06_2	8	52	Ao92_06_2_cont_00, Ao92_06_2_cont_01, Ao92_06_2_cont_02, Ao92_06_2_cont_03, Ao92_06_2_cont_04, Ao92_06_2_cont_05, Ao92_06_2_cont_06, Ao92_06_2_cont_07
+BF0001	10	47	BF0001_chr1_con3, BF0001_chr1_con4, BF0001_chr1_con6, BF0001_chr2_con1, BF0001_chr3_con1, BF0001_chr3_con2, BF0001_chr4_con1, BF0001_chr5_con1, BF0001_chr7_con1, BF0001_chr7_con2
+BN0013	10	49	BN0013_chr1_con2, BN0013_chr1_con3, BN0013_chr2_con2, BN0013_chr3_con1, BN0013_chr4_con1, BN0013_chr4_con2, BN0013_chr4_con3, BN0013_chr5_con2, BN0013_chr6_con1, BN0013_chr7_con1
+BN0152	11	56	BN0152_chr1_con2, BN0152_chr1_con3, BN0152_chr2_con1, BN0152_chr2_con4, BN0152_chr3_con1, BN0152_chr3_con2, BN0152_chr4_con1, BN0152_chr5_con3, BN0152_chr5_con4, BN0152_chr6_con1, BN0152_chr7_con2
+EA18	7	54	CP091458.1, CP091459.1, CP091460.1, CP091461.1, CP091462.1, CP091463.1, CP091464.1
+EG12	12	55	EG12_chr1_con2, EG12_chr2_con1, EG12_chr2_con2, EG12_chr2_con3, EG12_chr3_con1, EG12_chr4_con1, EG12_chr5_con1, EG12_chr5_con2, EG12_chr6_con3, EG12_chr6_con4, EG12_chr7_con1, EG12_chr7_con3
+FC10	9	50	FC10_chr1_con1, FC10_chr1_con5, FC10_chr2_con1, FC10_chr3_con1, FC10_chr3_con2, FC10_chr4_con1, FC10_chr5_con1, FC10_chr7_con1, FC10_chr7_con2
+FJ72ZC7_77	9	52	MQOM02000010.1, MQOM02000011.1, MQOM02000013.1, MQOM02000001.1, MQOM02000002.1, MQOM02000006.1, MQOM02000007.1, MQOM02000008.1, MQOM02000009.1
+FJ98099	8	50	MQPB02000002.1, MQPB02000003.1, MQPB02000004.1, MQPB02000005.1, MQPB02000006.1, MQPB02000007.1, MQPB02000008.1, MQPB02000009.1
+FR13	13	56	UEMA03000001.1, UEMA03000002.1, UEMA03000003.1, UEMA03000004.1, UEMA03000005.1, UEMA03000006.1, UEMA03000007.1, UEMA03000008.1, UEMA03000009.1, UEMA03000010.1, UEMA03000011.1, UEMA03000016.1, UEMA03000023.1
+GH0007	13	53	GH0007_chr1_con1, GH0007_chr1_con2, GH0007_chr2_con1, GH0007_chr2_con2, GH0007_chr2_con3, GH0007_chr3_con1, GH0007_chr3_con2, GH0007_chr3_con4, GH0007_chr4_con1, GH0007_chr4_con2, GH0007_chr5_con1, GH0007_chr6_con1, GH0007_chr7_con1
+Guy11_HiC	7	48	Guy11_chr1, Guy11_chr2, Guy11_chr3, Guy11_chr4, Guy11_chr5, Guy11_chr6, Guy11_chr7
+H98_315_1	8	53	H98_315_1_cont_00, H98_315_1_cont_01, H98_315_1_cont_02, H98_315_1_cont_03, H98_315_1_cont_04, H98_315_1_cont_05, H98_315_1_cont_06, H98_315_1_cont_07
+IN15	13	59	IN15_chr1_con1, IN15_chr1_con2, IN15_chr1_con3, IN15_chr1_con4, IN15_chr2_con1, IN15_chr3_con1, IN15_chr4_con1, IN15_chr4_con2, IN15_chr5_con2, IN15_chr5_con3, IN15_chr6_con2, IN15_chr7_con2, IN15_chr7_con3
+Ina168	7	50	Ina168_cont_00, Ina168_cont_01, Ina168_cont_02, Ina168_cont_03, Ina168_cont_04, Ina168_cont_05, Ina168_cont_06
+Ina85_182	16	56	Ina85_182_cont_00, Ina85_182_cont_01, Ina85_182_cont_02, Ina85_182_cont_03, Ina85_182_cont_04, Ina85_182_cont_05, Ina85_182_cont_06, Ina85_182_cont_07, Ina85_182_cont_08, Ina85_182_cont_09, Ina85_182_cont_10, Ina85_182_cont_12, Ina85_182_cont_13, Ina85_182_cont_17, Ina85_182_cont_18, Ina85_182_cont_20
+Ina87T_56A	11	54	Ina87T_56A_cont_00, Ina87T_56A_cont_01, Ina87T_56A_cont_02, Ina87T_56A_cont_03, Ina87T_56A_cont_04, Ina87T_56A_cont_05, Ina87T_56A_cont_06, Ina87T_56A_cont_07, Ina87T_56A_cont_08, Ina87T_56A_cont_09, Ina87T_56A_cont_10
+Iwa_kita	8	56	Iwa_kita_cont00, Iwa_kita_cont01, Iwa_kita_cont02, Iwa_kita_cont03, Iwa_kita_cont04, Iwa_kita_cont05, Iwa_kita_cont06, Iwa_kita_cont07
+KE002	14	52	000007F, 000008F, 000009F, 000004F, 000006F, 000001F, 000018F, 000000F, 000015F, 000003F, 000011F, 000019F, 000016F, 000002F
+KE011	23	51	KE011_chr1_con3, KE011_chr1_con4, KE011_chr1_con5, KE011_chr1_con9, KE011_chr2_con1, KE011_chr2_con2, KE011_chr2_con3, KE011_chr3_con1, KE011_chr3_con5, KE011_chr3_con6, KE011_chr4_con1, KE011_chr4_con2, KE011_chr5_con2, KE011_chr5_con3, KE011_chr5_con4, KE011_chr5_con6, KE011_chr6_con1, KE011_chr6_con2, KE011_chr7_con1, KE011_chr7_con3, KE011_cont101, KE011_cont55, KE011_cont65
+KE200	20	51	KE200_chr1_con1, KE200_chr1_con2, KE200_chr1_con3, KE200_chr1_con6, KE200_chr2_con2, KE200_chr2_con3, KE200_chr2_con4, KE200_chr3_con3, KE200_chr3_con4, KE200_chr4_con1, KE200_chr4_con2, KE200_chr5_con1, KE200_chr5_con3, KE200_chr5_con4, KE200_chr5_con5, KE200_chr6_con2, KE200_chr6_con3, KE200_chr7_con1, KE200_chr7_con2, KE200_supercont8_8_con1
+ML0060	9	51	ML0060_chr1_con1, ML0060_chr1_con2, ML0060_chr2_con1, ML0060_chr3_con1, ML0060_chr3_con3, ML0060_chr4_con2, ML0060_chr5_con1, ML0060_chr6_con1, ML0060_chr7_con1
+ML0062	17	55	ML0062_chr1_con1, ML0062_chr1_con2, ML0062_chr1_con3, ML0062_chr2_con1, ML0062_chr2_con2, ML0062_chr2_con3, ML0062_chr3_con1, ML0062_chr3_con2, ML0062_chr4_con1, ML0062_chr5_con2, ML0062_chr5_con3, ML0062_chr6_con1, ML0062_chr6_con2, ML0062_chr7_con1, ML0062_cont23, ML0062_cont34, ML0062_cont69
+NG0121_1	13	54	NG0121_1_chr1_con1, NG0121_1_chr2_con1, NG0121_1_chr2_con2, NG0121_1_chr2_con3, NG0121_1_chr3_con1, NG0121_1_chr4_con1, NG0121_1_chr4_con2, NG0121_1_chr5_con2, NG0121_1_chr6_con2, NG0121_1_chr6_con3, NG0121_1_chr7_con1, NG0121_1_chr7_con2, NG0121_1_chr7_con3
+Naga69_150	18	55	Naga69_150_cont00, Naga69_150_cont01, Naga69_150_cont02, Naga69_150_cont03, Naga69_150_cont04, Naga69_150_cont05, Naga69_150_cont06, Naga69_150_cont07, Naga69_150_cont08, Naga69_150_cont09, Naga69_150_cont10, Naga69_150_cont11, Naga69_150_cont12, Naga69_150_cont15, Naga69_150_cont16, Naga69_150_cont18, Naga69_150_cont20, Naga69_150_cont34
+O23	8	50	O23_1, O23_2, O23_3, O23_4, O23_5, O23_6, O23_7, O23_contig_2
+PR003	8	53	PR003_chr1_con2, PR003_chr2_con1, PR003_chr2_con2, PR003_chr3_con1, PR003_chr4_con1, PR003_chr5_con2, PR003_chr6_con1, PR003_chr7_con1
+PoP131	7	49	CP114135.1, CP114136.1, CP114137.1, CP114138.1, CP114139.1, CP114140.1, CP114141.1
+RP1	15	55	RP1_chr1_con2, RP1_chr2_con1, RP1_chr2_con2, RP1_chr2_con3, RP1_chr3_con1, RP1_chr3_con4, RP1_chr3_con6, RP1_chr4_con1, RP1_chr5_con1, RP1_chr5_con2, RP1_chr6_con1, RP1_chr7_con1, RP1_chr7_con2, RP1_cont51, RP1_cont70
+SAndrea	16	55	SAndrea_chr1_con2, SAndrea_chr1_con3, SAndrea_chr1_con4, SAndrea_chr1_con6, SAndrea_chr1_con7, SAndrea_chr1_con8, SAndrea_chr2_con1, SAndrea_chr2_con2, SAndrea_chr2_con4, SAndrea_chr3_con2, SAndrea_chr4_con1, SAndrea_chr4_con2, SAndrea_chr5_con4, SAndrea_chr6_con2, SAndrea_chr7_con1, San_Andrea_Contig09
+SL91_48D	8	55	SL91_48D_cont_00, SL91_48D_cont_01, SL91_48D_cont_02, SL91_48D_cont_03, SL91_48D_cont_04, SL91_48D_cont_05, SL91_48D_cont_06, SL91_48D_cont_07
+Sar_2_20_1	7	51	MQPW02000010.1, MQPW02000011.1, MQPW02000012.1, MQPW02000014.1, MQPW02000001.1, MQPW02000002.1, MQPW02000009.1
+Sasa2	11	56	Sasa2_cont00, Sasa2_cont01, Sasa2_cont02, Sasa2_cont03, Sasa2_cont04, Sasa2_cont05, Sasa2_cont06, Sasa2_cont07, Sasa2_cont08, Sasa2_cont09, Sasa2_cont10
+Sasamori121	12	56	Sasamori121_cont_00, Sasamori121_cont_01, Sasamori121_cont_02, Sasamori121_cont_03, Sasamori121_cont_04, Sasamori121_cont_05, Sasamori121_cont_06, Sasamori121_cont_07, Sasamori121_cont_08, Sasamori121_cont_09, Sasamori121_cont_10, Sasamori121_cont_11
+TG0011	12	50	TG0011_chr1_con3, TG0011_chr2_con1, TG0011_chr3_con2, TG0011_chr4_con1, TG0011_chr5_con1, TG0011_chr5_con2, TG0011_chr5_con3, TG0011_chr5_con4, TG0011_chr6_con1, TG0011_chr7_con1, TG0011_cont43, TG0011_cont44
+TG005	11	54	TG005_chr1_con1, TG005_chr2_con1, TG005_chr2_con2, TG005_chr3_con1, TG005_chr3_con2, TG005_chr3_con3, TG005_chr4_con1, TG005_chr5_con1, TG005_chr6_con1, TG005_cont16, TG005_scff13
+TH03_HiC	7	51	TH03_chr1, TH03_chr2, TH03_chr3, TH03_chr4, TH03_chr5, TH03_chr6, TH03_chr7
+TH68_126	10	56	TH68_126_cont00, TH68_126_cont01, TH68_126_cont02, TH68_126_cont03, TH68_126_cont04, TH68_126_cont05, TH68_126_cont06, TH68_126_cont07, TH68_126_cont08, TH68_126_cont09
+TH68_140	11	51	TH68_140_cont00, TH68_140_cont01, TH68_140_cont02, TH68_140_cont03, TH68_140_cont04, TH68_140_cont05, TH68_140_cont06, TH68_140_cont07, TH68_140_cont08, TH68_140_cont10, TH68_140_cont11
+TH68_141	10	53	TH68_141_cont00, TH68_141_cont01, TH68_141_cont02, TH68_141_cont03, TH68_141_cont04, TH68_141_cont05, TH68_141_cont06, TH68_141_cont07, TH68_141_cont08, TH68_141_cont09
+TN0012	10	51	TN0012_chr1_con1, TN0012_chr1_con2, TN0012_chr2_con1, TN0012_chr2_con2, TN0012_chr3_con1, TN0012_chr3_con2, TN0012_chr4_con1, TN0012_chr6_con2, TN0012_chr7_con1, TN0012_cont1
+UG010	10	51	UG010_chr1_con2, UG010_chr2_con1, UG010_chr2_con2, UG010_chr2_con3, UG010_chr2_con4, UG010_chr3_con2, UG010_chr3_con3, UG010_chr4_con1, UG010_chr6_con1, UG010_chr7_con1
+VO15	14	54	VO15_chr1_con1, VO15_chr1_con2, VO15_chr1_con3, VO15_chr1_con4, VO15_chr2_con1, VO15_chr2_con3, VO15_chr3_con1, VO15_chr3_con2, VO15_chr4_con1, VO15_chr6_con1, VO15_chr6_con2, VO15_chr7_con2, VO15_cont114, VO15_cont115
+VO3	15	49	VO3_chr1_con2, VO3_chr1_con3, VO3_chr1_con5, VO3_chr2_con1, VO3_chr3_con1, VO3_chr3_con4, VO3_chr4_con1, VO3_chr4_con2, VO3_chr4_con3, VO3_chr4_con4, VO3_chr5_con2, VO3_chr5_con3, VO3_chr6_con1, VO3_chr6_con2, VO3_chr7_con1
