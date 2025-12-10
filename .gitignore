@@ -34,3 +34,5 @@ reports/
 methods_section.docx
 
 
+# Analysis configuration (local only)
+scripts/analysis_config.R
