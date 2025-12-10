@@ -66,7 +66,7 @@ save_data <- function(data, filename, format = "csv") {
 save_plot <- function(plot, filename, width = 10, height = 8, dpi = 300) {
   
   # Define figures directory path
-  figures_path <- here::here("data/results", ANALYSIS_FOLDER, "00_figures")
+  figures_path <- here::here("../data/results", ANALYSIS_FOLDER, "00_figures")
   
   # Save as high-resolution PNG with Cairo for better font rendering
   png_path <- file.path(figures_path, paste0(filename, ".png"))
