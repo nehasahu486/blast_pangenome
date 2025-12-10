@@ -16,6 +16,9 @@ data/*
 !data/results/
 !data/results/**
 
+# Exclude PDF figures (keep PNG only for GitHub display)  
+data/results/**/00_figures/*.pdf
+
 # Include all files in scripts/
 !scripts/
 !scripts/**
